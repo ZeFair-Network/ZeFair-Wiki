@@ -17,7 +17,7 @@
 
 * [Сотрудничество](other/collaboration.md)
 
-## 💸 Поддержка
+## 💸 Подписки <a href="#subscriptions" id="subscriptions"></a>
 
-* [Подписка Fair](podderzhka/Fair.md)
-* [Подписка Fair Plus](podderzhka/FairPlus.md)
+* [Подписка Fair](subscriptions/fair.md)
+* [Подписка Fair Plus](subscriptions/fair\_plus.md)
