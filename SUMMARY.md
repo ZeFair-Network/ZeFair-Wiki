@@ -1,32 +1,23 @@
 # Table of contents
 
-* [О проекте](README.md)
-* [Update](update-1/README.md)
-  * [Table of contents](Update/SUMMARY.md)
-* [Update](update-2/README.md)
-  * [components](update-2/components/README.md)
-    * [Buttons](Update/components/buttons.md)
-* [Update](update-3/README.md)
-  * [components](update-3/components/README.md)
-    * [Icons](Update/components/icons.md)
-* [Update](update-4/README.md)
-  * [components](update-4/components/README.md)
-    * [Inputs](Update/components/inputs.md)
-* [Update](update-5/README.md)
-  * [info](update-5/info/README.md)
-    * [Accessibility](Update/info/accessibility.md)
-* [Update](update-6/README.md)
-  * [info](update-6/info/README.md)
-    * [Brand Guidelines](Update/info/brand-guidelines.md)
-* [Update](update-7/README.md)
-  * [info](update-7/info/README.md)
-    * [How updates work](Update/info/how-updates-work.md)
-* [Update](update-8/README.md)
-  * [other](update-8/other/README.md)
-    * [Сотрудничество](Update/other/collaboration.md)
-* [Update](update-9/README.md)
-  * [subscriptions](update-9/subscriptions/README.md)
-    * [Подписка Fair](Update/subscriptions/fair.md)
-* [Update](update-10/README.md)
-  * [subscriptions](update-10/subscriptions.md)
-  * [Подписка Fair Plus](update-10/fair\_plus.md)
+## 📖 Информация <a href="#info" id="info"></a>
+
+* [О студии](README.md)
+* [Brand Guidelines](info/brand-guidelines.md)
+* [How updates work](info/how-updates-work.md)
+* [Accessibility](info/accessibility.md)
+
+## Components
+
+* [Icons](components/icons.md)
+* [Buttons](components/buttons.md)
+* [Inputs](components/inputs.md)
+
+## 🔎 Другое <a href="#other" id="other"></a>
+
+* [Сотрудничество](other/collaboration.md)
+
+## 💸 Подписки <a href="#subscriptions" id="subscriptions"></a>
+
+* [Подписка Fair](subscriptions/fair.md)
+* [Подписка Fair Plus](subscriptions/fair\_plus.md)
