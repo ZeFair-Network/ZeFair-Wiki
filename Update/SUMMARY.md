@@ -2,7 +2,7 @@
 
 ## 📖 Информация <a href="#info" id="info"></a>
 
-* [О проекте](README.md)
+* [О проекте](../)
 * [Brand Guidelines](info/brand-guidelines.md)
 * [How updates work](info/how-updates-work.md)
 * [Accessibility](info/accessibility.md)
@@ -20,4 +20,4 @@
 ## 💸 Подписки <a href="#subscriptions" id="subscriptions"></a>
 
 * [Подписка Fair](subscriptions/fair.md)
-* [Подписка Fair Plus](subscriptions/fair\_plus.md)
+* [Подписка Fair Plus](../update-10/fair\_plus.md)
