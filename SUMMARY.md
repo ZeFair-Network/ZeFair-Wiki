@@ -2,7 +2,7 @@
 
 ## 📖 Информация <a href="#info" id="info"></a>
 
-* [О студии](README.md)
+* [О компании](README.md)
 * [Brand Guidelines](info/brand-guidelines.md)
 * [How updates work](info/how-updates-work.md)
 * [Accessibility](info/accessibility.md)
