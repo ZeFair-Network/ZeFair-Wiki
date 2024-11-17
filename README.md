@@ -8,14 +8,14 @@ layout:
   tableOfContents:
     visible: false
   outline:
-    visible: false
-  pagination:
     visible: true
+  pagination:
+    visible: false
 ---
 
 # О компании
 
-### 📜 Кто мы такие
+📜 Кто мы такие
 
 ZeFair Network - мы молодая и перспективная компания. Наша компания основана в 2020 году. Мы создаём машинимы и сериалы в известной игре Minecraft, а также делаем индивидуальные услуги на заказ. Основателем компании является Карим Соколов, наш главный творец. У компании имеется свой канал. Слоган компании "There is only black and white, the rest are shades" переводиться как "Есть только черное и белое, остальное — оттенки"!
 
@@ -38,3 +38,7 @@ ZeFair Network - мы молодая и перспективная компан�
 <figure><img src=".gitbook/assets/флккноьмиьт.png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="info/brand-guidelines.md">brand-guidelines.md</a></td><td><a href=".gitbook/assets/роаачов.png">роаачов.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
