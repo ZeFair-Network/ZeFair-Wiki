@@ -1,7 +1,8 @@
 ---
-description: УСЛОВИЯ СОТРУДНИЧЕСТВА @Broadcast
+description: 'По вопросам сотрудничества:'
+icon: at
 ---
 
 # Сотрудничество
 
-По вопросам сотрудничества: [t.me/ZeFair\_CEO](https://t.me/ZeFair\_CEO)
+По вопросам сотрудничества: [Telegram](https://t.me/ZeFair\_CEO)
